@@ -4,3 +4,10 @@ dev-v1.0.2:吸い込まれる鏡を追加
 dev-v1.0.3:-吸い込まれる鏡の保存場所を修正
            -トイレの鏡(人影あり&なし)を追加
 pre-dev-v.1.0.4:学校のチャイムを追加(このビルドはテストビルド)
+dev-v.1.0.4:-配布用Readme.txtを追加
+		-学校のチャイムを正式追加(mob/pig/say1~say3)
+		-不気味な学校のチャイムを正式追加(mob/rabbit/hop1~4)
+		-だんだんおかしくなるピアノの音を追加(mob/sheep/say1~say4)
+		-スマホの着信音を追加(mob/husk/death1~death4)
+		-固定電話の着信音を追加(mob/chicken/hurt1~hurt2)
+		-ラップ音を追加(mob/cow/hurt1~hurt3)

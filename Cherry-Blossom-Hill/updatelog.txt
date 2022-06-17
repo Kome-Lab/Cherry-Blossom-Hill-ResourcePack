@@ -11,3 +11,4 @@ dev-v.1.0.4:-配布用Readme.txtを追加
 		-スマホの着信音を追加(mob/husk/death1~death4)
 		-固定電話の着信音を追加(mob/chicken/hurt1~hurt2)
 		-ラップ音を追加(mob/cow/hurt1~hurt3)
+dev-v1.0.5:ドアの音を追加(block/wooden_door/open1~4 & close1~4)

@@ -14,3 +14,5 @@ dev-v.1.0.4:-配布用Readme.txtを追加
 dev-v1.0.5:ドアの音を追加(block/wooden_door/open1~4 & close1~4)
 dev-v1.0.6:女の子の影を追加
 dev-v1.0.7:女の子の影のテクスチャを修正
+dev-v1.0.8:-猫のテクスチャを追加
+	     -wandererの拡張子ミスを修正

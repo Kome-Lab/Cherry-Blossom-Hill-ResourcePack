@@ -21,5 +21,8 @@ C:\Users\あなたのユーザー名\AppData\Roaming\.minecraft\resourcepacks
 制作：みならいアーキテクト
 https://kome-lab.net/maps/cherry-blossom-hill
 
+リソースパックの一部に下記のサービスで生成された音声を使用しています
+Voiced by https://coefont.cloud/ 
+
 
 ◆上記をご理解の上、本リソースパックをお楽しみください。
